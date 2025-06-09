@@ -21,7 +21,7 @@ public class Colas {
         System.out.println(cola1.toString);
         
         int size = cola1.contar();
-        System.out.println("cantidad de elementos en la cola son los" + size);
+        System.out.println("cantidad de elementos en la cola son los siguientes" + size);
     }
     
 }
